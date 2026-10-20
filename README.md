@@ -19,12 +19,12 @@ Worked on the WSO2 Open Banking product under the Financial Services Accelerator
 
 ## Stats
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=duleepa-a&layout=compact&hide_border=true)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=duleepa-a&show_icons=true&hide_border=true&show=prs_merged,prs_merged_percentage)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=duleepa-a&layout=compact&hide_border=true&theme=github_dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=duleepa-a&show_icons=true&hide_border=true&theme=github_dark&show=prs_merged,prs_merged_percentage)
 
-![Streak](https://streak-stats.demolab.com?user=duleepa-a&hide_border=true)
+![Streak](https://streak-stats.demolab.com?user=duleepa-a&hide_border=true&background=0D1117&ring=58A6FF&fire=FF9A00&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E)
 
-![Contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=duleepa-a&hide_border=true)
+![Contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=duleepa-a&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/duleepa-a/duleepa-a/output/github-snake-dark.svg">
