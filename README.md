@@ -19,11 +19,11 @@ Worked on the WSO2 Open Banking product under the Financial Services Accelerator
 
 ## Stats
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=duleepa-a&layout=compact&hide_border=true&theme=github_dark)
-
-![Streak](https://streak-stats.demolab.com?user=duleepa-a&hide_border=true&background=0D1117&ring=58A6FF&fire=FF9A00&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=duleepa-a&show_icons=true&hide_border=true&theme=github_dark&show=prs_merged,prs_merged_percentage&hide_rank=true)
+<p align="center">
+  <img height="120" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duleepa-a&layout=compact&hide_border=true&theme=github_dark">
+  <img height="120" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=duleepa-a&show_icons=true&hide_border=true&theme=github_dark&show=prs_merged,prs_merged_percentage">
+  <img height="120" alt="Streak" src="https://streak-stats.demolab.com?user=duleepa-a&hide_border=true&background=0D1117&ring=58A6FF&fire=FF9A00&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E">
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/duleepa-a/duleepa-a/output/github-snake-dark.svg">
