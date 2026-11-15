@@ -2,7 +2,7 @@
 
 Fourth-year Computer Science undergraduate at the University of Colombo School of Computing (UCSC). I build backend and full-stack systems, and I’m currently working on a research project focused on reducing code bloat in the Linux kernel and understanding the challenges involved in removing unnecessary code safely.
 
-**B.Sc. Honours in Computer Science
+**B.Sc. (Honours) in Computer Science
 University of Colombo School of Computing, 2023 to present.**
 - GPA 3.83/4.0
 
